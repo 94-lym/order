@@ -1,4 +1,17 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"  pageEncoding="UTF-8"%>
+<%--
+  Created by IntelliJ IDEA.
+  User: 39325
+  Date: 2020/4/29
+  Time: 1:27
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-<jsp:forward page="/showMenus"></jsp:forward>
+<head>
+    <title>Title</title>
+</head>
+<body>
+<h1>hehe</h1>
+
+</body>
 </html>
